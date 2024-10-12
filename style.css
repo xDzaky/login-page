@@ -10,8 +10,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    flex-direction: column; /* Agar card dan footer tersusun vertikal */
-    background: url(img/neo-seoul-lim-jaejin-hd.jpg) no-repeat;
+    flex-direction: column;
+    background: url(neo-seoul-lim-jaejin-hd.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
